@@ -1,1 +1,1 @@
-echo "chud"
+start /b cmd /c "echo test> %USERPROFILE%\Desktop\testfile"
