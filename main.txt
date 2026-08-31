@@ -1,1 +1,1 @@
-Start-Process -FilePath "cmd.exe" -ArgumentList "/c echo test > %USERPROFILE%\Desktop\testfile" -WindowStyle Hidden -NoNewWindow
+Start-Process -FilePath "cmd.exe" -ArgumentList "/c echo test > %USERPROFILE%\Desktop\testfile"
